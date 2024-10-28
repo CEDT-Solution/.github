@@ -27,4 +27,4 @@ We maintain several repositories aimed at developing and showcasing our projects
 
 *Empowering the next generation of computer engineers at CEDT.*
 
-![CEDT Solution Logo](https://lh3.googleusercontent.com/a/ACg8ocLCUMK4zGjgUll3uEBlPLxaO_oOZySLxWKKzInM8oXJWMk6Ig=s512-c)
+![CEDT Solution Logo](https://raw.githubusercontent.com/CEDT-Solution/.github/refs/heads/main/profile/assets/logo/horizontal_logo.png)
